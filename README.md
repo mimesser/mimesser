@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mimesser
-- 👀 I’m interested in Frontend Development.
-- 🌱 I’m currently learning Devops and QA.
-- 💞️ I’m looking to collaborate on building full stack web services.
+- 👀 I’m interested in Web3 Full Stack & Smart Contract Development.
 - 📫 How to reach me : michaelmesser9507@gmail.com
 
 <!---
